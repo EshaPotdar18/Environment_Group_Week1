@@ -32,17 +32,18 @@ It combines data visualization, AI-driven predictions, and a modern UI with logi
 
 ### 📸 App Preview  
 
-### Home Page  
-![Home Page](screenshots/Screenshot 2025-09-14 233117.png)
+#### Login Page  
+![Login Page](screenshots/pic2.png)
 
-### Prediction Page  
-![Prediction Page](screenshots/Screenshot 2025-09-15 000338.png)
+#### Dashboard Page  
+![Dashboard Page](screenshots/pic3.png)
 
-### Another Page 1  
-![Another Page 1](screenshots/Screenshot 2025-09-15 000412.png)
+#### Prediction Page
+![Prediction Page 1](screenshots/pic4.png)
 
-### Another Page 2  
-![Another Page 2](screenshots/Screenshot 2025-09-15 000427.png)
+#### Graph Page  
+![Graph Page 2](screenshots/pic5.png)
+
 
 
 ### Setup and Run the Streamlit App
